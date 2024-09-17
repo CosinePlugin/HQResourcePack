@@ -12,7 +12,7 @@
 *  [HQFramework](https://github.com/HQService/HQFramework)
 
 ## 버전
-* 1.17.1~
+* 1.17.1+
 
 ## 관리자 명령어
 * /리소스팩관리
