@@ -1,5 +1,6 @@
 # 리소스팩
 서버에 접속한 유저에게 리소스팩을 적용시켜주는 시스템입니다.
+(쓰실거면 개발용으로만 사용하세요!!!)
 
 ## 다운로드
 * 플러그인 다운로드는 [릴리즈](https://github.com/CosinePlugin/HQResourcePack/releases)에서 가능합니다.
