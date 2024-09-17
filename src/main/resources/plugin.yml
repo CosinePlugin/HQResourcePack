@@ -1,0 +1,10 @@
+name: HQResourcePack
+main: kr.cosine.resourcepack.HQResourcePack
+version: 1.0.0
+api-version: 1.17
+author: Cosine_A
+libraries:
+  - org.zeroturnaround:zt-zip:1.15
+  - io.vertx:vertx-web:4.4.4
+depend:
+  - HQFramework
